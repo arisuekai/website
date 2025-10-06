@@ -1,15 +1,15 @@
 // Put your custom SCSS variables here
 
 // Light mode
-$primary: blue;
+$primary: #6D4AFF;
 
 // Dark mode
-$link-color-dark: aquamarine;
-$button-color-dark: aquamarine;
+$link-color-dark: #E3D9FF;
+$button-color-dark: #E3D9FF;
 
 :root,
 ::backdrop {
-  --sl-color-accent-high: aquamarine;
+  --sl-color-accent-high: #E3D9FF;
 }
 
 $font-family-sans-serif:
