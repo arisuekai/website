@@ -12,10 +12,10 @@ summarylength = 20 # 70 (default)
 
 # Multilingual
 defaultContentLanguage = "en"
-disableLanguages = ["", ""]
+disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Powered by <a href="https://gohugo.io/">Hugo</a> / <a href="https://github.com/thuliteio/doks">Doks</a>"
+copyRight = "Copyright (c) 2020-2024 Thulite"
 
 [build.buildStats]
   enable = true
